@@ -1,0 +1,1 @@
+{"version":3,"file":"ICaller.js","sourceRoot":"","sources":["ICaller.ts"],"names":[],"mappings":";;AAOA,MAAqB,aAAa;IAIvB,MAAM,CAAC,GAAG,CAAC,IAA4B;QAE1C,IAAI,IAAI,CAAC,cAAc,IAAI,IAAI;YAC3B,OAAO,IAAI,CAAC;QAEhB,OAAO,IAAI,CAAC,cAAc,CAAC,GAAG,CAAC,IAAI,CAAC,CAAC;IACzC,CAAC;CACJ;AAXD,gCAWC"}

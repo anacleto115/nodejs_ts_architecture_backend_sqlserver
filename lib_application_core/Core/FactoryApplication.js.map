@@ -1,0 +1,1 @@
+{"version":3,"file":"FactoryApplication.js","sourceRoot":"","sources":["FactoryApplication.ts"],"names":[],"mappings":";;AAGA,MAAqB,kBAAkB;IAI5B,MAAM,CAAC,GAAG,CAAC,IAA4B;QAE1C,IAAI,IAAI,CAAC,mBAAmB,IAAI,IAAI;YAChC,OAAO,IAAI,CAAC;QAEhB,OAAO,IAAI,CAAC,mBAAmB,CAAC,GAAG,CAAC,IAAI,CAAC,CAAC;IAC9C,CAAC;CACJ;AAXD,qCAWC"}

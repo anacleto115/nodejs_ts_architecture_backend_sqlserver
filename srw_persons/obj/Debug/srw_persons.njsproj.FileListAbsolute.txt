@@ -1,0 +1,3 @@
+E:\Languages\Examples\Typescript\srw_persons\obj\Debug\srw_persons.njsproj.CoreCompileInputs.cache
+E:\Languages\Examples\Typescript\srw_persons\bin\Microsoft.NodejsTools.WebRole.dll
+E:\Languages\Examples\Typescript\srw_persons\obj\Debug\srw_persons.njsproj.AssemblyReference.cache

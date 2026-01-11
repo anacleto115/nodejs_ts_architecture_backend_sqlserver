@@ -1,0 +1,1 @@
+console.log('Loaded lib_service_core');
